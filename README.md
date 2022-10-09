@@ -41,4 +41,4 @@ root directory
 
 ---
 
-You can also check this repository https://github.com/irulchazi/de-coding-challenge and open dwh-coding-challenge/solution/submission.ipynb to check directly in github repository
+You can also check this repository https://github.com/irulchazi/de-coding-challenge and open dwh-coding-challenge/solution/[submission.ipynb](https://github.com/irulchazi/de-coding-challenge/blob/main/dwh-coding-challenge/solution/submission.ipynb)  to check directly in github repository
